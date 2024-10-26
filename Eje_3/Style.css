@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to right, rgb(3, 56, 3), rgb(7, 119, 7), rgb(96, 223, 96));
+}
+h1{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique ;
+    text-align: center;
+
+}
+p{
+    color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    font-style: inherit;
+}
+
+img{
+    width: 60%;
+}

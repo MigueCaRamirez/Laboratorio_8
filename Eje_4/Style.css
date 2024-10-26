@@ -1,0 +1,20 @@
+body{
+    background-color: chartreuse;
+}
+h1{
+    color: aliceblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: oblique ;
+    text-align: center;
+
+}
+p{
+    color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-small;
+    font-style: inherit;
+}
+
+img{
+    width: 60%;
+}
